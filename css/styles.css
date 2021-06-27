@@ -1,0 +1,19 @@
+body {
+  background-color: cornflowerblue
+}
+
+h1 {
+  color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 2px;
+}
+
+.pic {
+  background-color: cornflowerblue;
+}
